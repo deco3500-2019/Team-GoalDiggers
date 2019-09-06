@@ -1,7 +1,7 @@
 # Team-GoalDiggers
 ***
 ## Link To Project Proposal
-link to wiki page here for proposal
+https://github.com/deco3500-2019/Team-GoalDiggers/wiki
 
 ## Link to Final Report
 https://github.com/deco3500-2019/TEMPLATE/wiki/Proposal
