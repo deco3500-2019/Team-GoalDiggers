@@ -7,12 +7,12 @@ const Code = () => {
     return (
     <div className="joinOuterContainer">
         <div className="joinInnterContainer">
-             <h1 className="heading">Enter the box's code</h1>
+             <h1 className="heading">Connect To Your Box Now!</h1>
              <div>
-                 <input placeholder="Code" className="joinInput" type="text" onChange={(event) => setCode(event.target.value)} /> 
+                 <input placeholder="Enter the ID of your MusicBox here" className="joinInput" type="text" onChange={(event) => setCode(event.target.value)} /> 
              </div>
              <Link onClick={(event) => (!code) ? event.preventDefault() : null } to='/join'>
-                <button className="button mt-20" type="submit">Enter</button>
+                <button className="button mt-20" type="submit">Connect</button>
              </Link>
         </div>
     </div>
