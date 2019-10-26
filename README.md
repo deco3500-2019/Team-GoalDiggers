@@ -1,7 +1,7 @@
 # Team-GoalDiggers
 ***
 ## Documentation and Process Information
-1. [Concept Proposal]https://github.com/deco3500-2019/Team-GoalDiggers/wiki/Proposal
+1. [Concept Proposal](https://github.com/deco3500-2019/Team-GoalDiggers/wiki/Proposal)
 2. Design Process
 3. Prototype Link
 4. User research and testing 
