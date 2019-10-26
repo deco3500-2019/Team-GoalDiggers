@@ -3,7 +3,7 @@
 ## Documentation and Process Information
 1. [Concept Proposal](https://github.com/deco3500-2019/Team-GoalDiggers/wiki/Proposal)
 2. Design Process
-3. Prototype Link
+3. [Prototype Link](https://5dad1f975aa1feeb765a668e--sleepy-hawking-e58e4b.netlify.com/)
 4. User research and testing 
 5. Academic research 
 6. Prototype Functionality and Styling
