@@ -5,7 +5,6 @@
 2. Design Process
 3. [Prototype Link](https://5dad1f975aa1feeb765a668e--sleepy-hawking-e58e4b.netlify.com/)
 4. User research and testing 
-5. Academic research 
 6. Prototype Functionality and Styling
 ## Deployment Guide and Usage Instruction 
 ### How to install and develope the source code 
