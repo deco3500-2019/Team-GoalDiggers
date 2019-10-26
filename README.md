@@ -1,14 +1,12 @@
 # Team-GoalDiggers
 ***
-## Link To Project Proposal
-https://github.com/deco3500-2019/Team-GoalDiggers/wiki/Proposal
-
-## Link to Final Report
-https://github.com/deco3500-2019/TEMPLATE/wiki/Proposal
-
-## Link to Working Prototype, Promotional Material, and Documentation  
-link to relevant links for prototype, promotional material & documentation
-
+## Documentation and Process Information
+1. [Concept Proposal]https://github.com/deco3500-2019/Team-GoalDiggers/wiki/Proposal
+2. Design Process
+3. Prototype Link
+4. User research and testing 
+5. Academic research 
+6. Prototype Functionality and Styling
 ## Deployment Guide and Usage Instruction 
 ### How to install and develope the source code 
 ##### Prerequisites
