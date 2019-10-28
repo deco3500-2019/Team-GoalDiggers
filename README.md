@@ -1,6 +1,10 @@
 # Team-GoalDiggers
 ***
 ## Team Members 
+* Wai To Wong (Wilson) 
+* Wu Lai Yin (Peter) (44115001)
+* Nguyen Duc Hung (44064499) 
+* Pei-Shih Chu (Mimi) (44087948)
 ## Documentation and Process Information
 1. [Concept Proposal](https://github.com/deco3500-2019/Team-GoalDiggers/wiki/Proposal)
 2. Design Process
