@@ -16,6 +16,22 @@
     height: 70%;
     width: 40%;
   }
+
+  .card-container {
+    flex-direction: column;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    margin-top:.5rem;
+    margin-right: .5rem;
+    margin-left: .5rem;
+    width: 20%;
+  }
   
   @media (min-width: 320px) and (max-width: 480px) {
     .outerContainer {
@@ -33,3 +49,4 @@
       width: 60%;
     }
   }
+

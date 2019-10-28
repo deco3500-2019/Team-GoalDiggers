@@ -17,7 +17,7 @@ const Login = () => {
              <div>
                  <input placeholder="Password" className="joinInput mt-20" type="password" onChange={(event) => setPassword(event.target.value)} />
              </div>
-             <Link onClick={(event) => (!username || !password) ? event.preventDefault() : null } to='/code'>
+             <Link onClick={(event) => (!username || !password) ? event.preventDefault() : null } to='/join'>
                 <button className="button mt-20" type="submit">Log In</button>
              </Link>
         </div>

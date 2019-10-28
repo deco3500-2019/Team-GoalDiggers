@@ -5,6 +5,7 @@ import io from 'socket.io-client';
 import InFoBar from '../InFoBar';
 import Input from '../Input';
 import Messages from '../Messages';
+import Music from '../Musics';
 
 import './chat.scss';
 
@@ -16,7 +17,7 @@ const Chat = ({location}) => {
     const [room, setRoom] = useState('');
     const [message, setMessage] = useState('');
     const [messages, setMessages] = useState([]);
-    const endPoint = 'localhost:5000';
+    const endPoint = 'https://music-chat-app.herokuapp.com/';
 
     useEffect(() => {
         const {name, room} = queryString.parse(location.search);
@@ -50,9 +51,8 @@ const Chat = ({location}) => {
         if (message) {
             socket.emit('sendMessage', message, () => setMessage(''))
         }
-    }
 
-    console.log(message, messages);
+    }
 
     return(
     <div className="outerContainer">
@@ -60,6 +60,9 @@ const Chat = ({location}) => {
             <InFoBar room = {room}/>
             <Messages messages={messages} name={name}/>
             <Input setMessage={setMessage} message={message} sendMessage={sendMessage}/>
+        </div>
+        <div className='card-container'>
+            <Music messages={messages} name={name}/>
         </div>
     </div>
     )
