@@ -6,11 +6,7 @@
 * Nguyen Duc Hung (Kelvin) (44064499) 
 * Pei-Shih Chu (Mimi) (44087948)
 ## Documentation and Process Information
-1. [Concept Proposal](https://github.com/deco3500-2019/Team-GoalDiggers/wiki/Proposal)
-2. Design Process
-3. [Prototype Link](https://5dad1f975aa1feeb765a668e--sleepy-hawking-e58e4b.netlify.com/)
-4. User research and testing 
-6. Prototype Functionality and Styling
+Please follow the link to find out more about our documentation and process information: https://github.com/deco3500-2019/Team-GoalDiggers/wiki
 ## Deployment Guide and Usage Instruction 
 ### How to install and develope the source code 
 ##### Prerequisites
